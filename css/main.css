@@ -1895,7 +1895,7 @@ pre {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dddfc6;
+  background: #b37cff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3137,4 +3137,7 @@ span#inline-purple {
   vertical-align: baseline;
   border-radius: 0;
   background-color: #9954bb;
+}
+.site-meta {
+  background: $skyblue;
 }
